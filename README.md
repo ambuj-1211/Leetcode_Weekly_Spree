@@ -15,7 +15,7 @@ Welcome to Leetcode Weekly Spree.
 Please visit the [Guide](./Guide/README.md)  
 
 
-Minimum problems to complete | **Week1**: `1` |   
+Minimum problems to complete | **Week1**: `10` |   
 
 # Stats
   
